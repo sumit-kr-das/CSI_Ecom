@@ -5,7 +5,6 @@ import Img2 from "../../assets/slider/slider-3.jpg";
 import Img3 from "../../assets/slider/slider-4.jpg";
 // Swiper
 import { Swiper, SwiperSlide } from "swiper/react";
-import { Pagination } from "swiper/modules";
 // Import Swiper styles
 import "swiper/css";
 import "swiper/css/pagination";
